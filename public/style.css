@@ -1,0 +1,20 @@
+body {
+  background-color: #B7D5D4;
+}
+
+#usageGuide {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+#testui {
+  margin-left: 5%;
+}
+
+#convertField {
+  width: 200px;
+}
+
+hr {
+  margin: 50px;
+}
