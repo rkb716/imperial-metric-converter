@@ -156,7 +156,7 @@ function ConvertHandler() {
     if(returnUnit == "invalid unit") {
       return "invalid unit";
     }
-    return initNum + " " + initUnit + " converts to " + returnNum + " " + returnUnit;
+    return initNum + " " + this.spellOutUnit(initUnit) + " converts to " + returnNum + " " + this.spellOutUnit(returnUnit);
   };
 
   this.regexUnit = function(input) {
