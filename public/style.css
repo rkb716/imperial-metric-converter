@@ -16,5 +16,13 @@ body {
 }
 
 hr {
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 5%;
+}
+
+h1 {
+  margin-left: 5%;
+  color: white;
+  background-color: #376B98;
 }
